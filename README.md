@@ -32,6 +32,7 @@ The project uses 3 different algorithms to predict loan defaults. The one with t
 - Random Forest
 - LightGBM
 - Adaboost  
+  
 To deploy the codes follow the below steps :
 1. Download the repository
 2. Run the preprocessing code both on training and testing dataset as : python Pre_processing.py
