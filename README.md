@@ -31,7 +31,7 @@ The submissions are evaluated based on the **area under the ROC curve** between 
 The project uses 3 different algorithms to predict loan defaults. The one with the highest area under the roc curve value is chosen and the submission is made. The Algorithms used are :
 - Random Forest
 - LightGBM
-- Adaboost
+- Adaboost  
 To deploy the codes follow the below steps :
 1. Download the repository
 2. Run the preprocessing code both on training and testing dataset as : python Pre_processing.py
