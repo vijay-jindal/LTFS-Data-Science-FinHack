@@ -26,3 +26,19 @@ The final output of the code should be a .csv file with the Customer ID and the 
 
 ## Evaluation Metric
 The submissions are evaluated based on the **area under the ROC curve** between the predicted value and the actual value.
+
+## Approach
+The project uses 3 different algorithms to predict loan defaults. The one with the highest area under the roc curve value is chosen and the submission is made. The Algorithms used are :
+- Random Forest
+- LightGBM
+- Adaboost
+To deploy the codes follow the below steps :
+1. Download the repository
+2. Run the preprocessing code both on training and testing dataset as : python Pre_processing.py
+3. Run the python files for training the model and predicting the loan defaults as : python train_and_predict_Adaboost.py
+4. Done.
+
+## Leaderboard
+
+### [Private Leaderboard](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/pvt_lb) : 129/1339
+### [Public Leaderboard](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/lb) : 151/1339
