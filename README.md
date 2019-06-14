@@ -1,6 +1,6 @@
 # LTFS-Data-Science-FinHack
 
-## [About LTFS Data Science FinHack ( ML Hackathon)] (https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/)
+## [About LTFS Data Science FinHack ( ML Hackathon)](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/)
 L&T Financial Services & Analytics Vidhya presents ‘DataScience FinHack’.
 
 In this FinHack, you will develop a model for our most common but real challenge ‘Loan Default Prediction’ & also, get a feel of our business!
