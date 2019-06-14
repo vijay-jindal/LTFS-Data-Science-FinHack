@@ -1,3 +1,5 @@
+![alt text](https://github.com/vijay-jindal/LTFS-Data-Science-FinHack/blob/master/ml_hack_cover_image.jpg)
+
 # [LTFS-Data-Science-FinHack](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/)
 
 ## About LTFS Data Science FinHack ( ML Hackathon)
