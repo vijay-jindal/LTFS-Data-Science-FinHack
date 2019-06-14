@@ -1,3 +1,5 @@
+# This code uses LightGBM algorithm for predicting loan defaults
+# By Vijay Jindal : https://github.com/vijay-jindal/
 # Importing the libraries
 import numpy as np
 import pandas as pd
