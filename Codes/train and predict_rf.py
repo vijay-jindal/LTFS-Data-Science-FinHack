@@ -1,3 +1,5 @@
+# This code uses random forest classifier to predict the loan default
+# By Vijay Jindal : https://github.com/vijay-jindal/
 # Importing the required Libraries
 import numpy as np
 import pandas as pd
