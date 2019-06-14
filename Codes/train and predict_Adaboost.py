@@ -1,3 +1,5 @@
+# This code uses AdaBoost algorithm with random forest as the base classifier.
+# By Vijay Jindal : https://github.com/vijay-jindal/
 # Importing the required Libraries
 from sklearn.ensemble import AdaBoostClassifier
 import numpy as np
